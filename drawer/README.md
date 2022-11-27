@@ -1,1 +1,0 @@
-# Getx route management
